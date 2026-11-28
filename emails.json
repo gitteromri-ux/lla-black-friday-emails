@@ -46,5 +46,15 @@
   "text": "text/lla-bf-04.txt",
   "button_link": "https://www.longevitylifeacademy.com/?code=BFRIDAY&cid=118854&utm_source=Email_Marketing&utm_medium=email&utm_campaign=bfriday_history_leads&utm_content=lla-bf-04",
   "words": 242
+ },
+ {
+  "id": "lla-bf-05",
+  "send": "Saturday, November 28",
+  "from_name": "Longevity Life Academy",
+  "reply_to": "omri.gitter@longevitylifeacademy.com",
+  "subject": "2 seats left for 2026: longevity course for $79, not $179, until Sunday",
+  "preheader": "The Longevity Blueprint: an 18-week live online course from Longevity Life Academy by eTeacher Group. 2 seats left. $79 first month until Sunday night.",
+  "html": "lla-bf-05.html",
+  "button_link": "https://www.longevitylifeacademy.com/?code=BFRIDAY&cid=118854&utm_source=Email_Marketing&utm_medium=email&utm_campaign=bfriday_history_leads&utm_content=lla-bf-05"
  }
 ]
